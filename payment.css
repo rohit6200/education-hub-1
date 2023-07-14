@@ -1,0 +1,20 @@
+body
+{
+   
+}
+.container{
+    display: flex;
+    width: 700px;
+    height: 500px;
+   
+}
+.left{
+    padding: 5%;
+    margin-top: 30%;
+    margin-right: 10%;
+    margin-left: 70%;
+    text-align: center;
+    border: 2px solid red;
+    width: autopx;
+    height: 300px;
+}
